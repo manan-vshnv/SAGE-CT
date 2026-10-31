@@ -1,6 +1,6 @@
 # SAGE-CT
 
-Code for **SAGE-CT: Slice-Aware Latents and Gated Case Evidence for Brain CT Report Generation**
+Code for **SAGE-CT: A Lightweight Retrieval-Augmented Framework with Slice-Aware Latent Compression for Head Computed Tomography Report Generation**
 (M. Vaishnav\*, C. S. Raghaw\*, P. K. Yalavarthy; \*equal contribution).
 
 SAGE-CT generates the findings section of a brain CT report from 24 axial slices:
