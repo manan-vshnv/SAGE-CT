@@ -118,7 +118,7 @@ cases, image dropout 0.1, three decoder layers, label smoothing 0.1, validation 
 
 ```bibtex
 @article{vaishnav2026sagect,
-  title   = {{SAGE-CT}: Slice-Aware Latents and Gated Case Evidence for Brain {CT} Report Generation},
+  title   = {{SAGE-CT}: A Lightweight Retrieval-Augmented Framework with Slice-Aware Latent Compression for Head Computed Tomography Report Generation},
   author  = {Vaishnav, Manan and Raghaw, Chandravardhan Singh and Yalavarthy, Phaneendra K.},
   journal = {IEEE Journal of Biomedical and Health Informatics},
   note    = {under review},
